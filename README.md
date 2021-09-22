@@ -1,6 +1,26 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Stripe platform is used for payments. Test-Driven-Development practices are followed using RSpec library. 
+
+## Project Features
+* Admin can add new products and categories
+* Visitors can go to the registration page from any page in order to create an account
+* Visitors can sign up for a user account with first name, last name, e-mail and password
+* Visitors can sign in using e-mail and password
+* Visitors can log out from any page
+
+## Final Product
+
+## Home Page
+!["Screenshot of Home page](https://github.com/Pooja-IT/jungle-rails/blob/master/docs/Home%20Page.png?raw=true)
+## My Cart
+!["Screenshot of my cart](https://github.com/Pooja-IT/jungle-rails/blob/master/docs/My%20Cart.png?raw=true)
+## Thank you Message for order
+!["Screenshot of Thank you](https://github.com/Pooja-IT/jungle-rails/blob/master/docs/Thank%20You.png?raw=true)
+## Admin Products
+!["Screenshot of admin products](https://github.com/Pooja-IT/jungle-rails/blob/master/docs/Admin%20Products.png?raw=true)
+## Admin Categories
+!["Screenshot of admin categories](https://github.com/Pooja-IT/jungle-rails/blob/master/docs/Admin%20Categories.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
